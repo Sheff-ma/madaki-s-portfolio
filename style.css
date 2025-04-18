@@ -20,9 +20,9 @@
   display: flex;
   gap: 15px;
   flex-wrap: wrap;
-  justify-content: center; /* Centers horizontally */
-  align-items: center; /* Centers vertically */
-  margin: 0 auto; /* Additional centering for block elements */
+  /* justify-content: center;
+  align-items: center; */
+  margin: 0 auto;
 }
 
 .social-link {
